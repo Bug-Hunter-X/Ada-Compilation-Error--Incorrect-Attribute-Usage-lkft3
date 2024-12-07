@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada programming: attempting to use an attribute that is not applicable to the given data type. Specifically, the code tries to use the 'Img attribute, intended for modular types, with an integer array element. This results in a compilation failure. The solution shows how to correct this error.
